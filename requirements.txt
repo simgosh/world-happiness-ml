@@ -1,0 +1,15 @@
+
+rpart
+randomForest
+ipred
+Metrics
+ggplot2
+reshape2
+patchwork
+dplyr
+magrittr
+pROC
+MASS
+glmnet
+caret
+knitr
