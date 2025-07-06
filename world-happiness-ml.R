@@ -15,7 +15,7 @@ library(glmnet)
 library(caret)
 
 #checking dataset
-df <- read.csv("/Users/sim/Downloads/2019.csv")
+df <- read.csv("~/Downloads/2019.csv")
 head(df)
 #delete to "overall rank" column
 df <- subset(df, select = -Overall.rank)
