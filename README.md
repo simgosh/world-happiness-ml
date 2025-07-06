@@ -3,7 +3,7 @@
 
 ****The dataset was downloaded from Kaggle.
 
-This project was developed as part of the Supervised Learning Final Assignment for the Graduate Program in Data Science at Ege University. The goal is to apply various supervised machine learning algorithms to the 2019 World Happiness Report dataset, tackling both regression and classification problems.
+This project was developed as part of the Supervised Learning Final Assignment for the Master Degree Program in Data Science. The goal is to apply various supervised machine learning algorithms to the 2019 World Happiness Report dataset, tackling both regression and classification problems.
 
 ### The dataset contains happiness scores (Score) for countries along with key economic, social, and political indicators. The analysis is divided into two main tasks:
 1) Regression Task
